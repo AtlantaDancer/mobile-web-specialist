@@ -1,4 +1,4 @@
-# Initial File Entry for Let/Const
+# Lesson 6-2 Let and Const
 
 There are now two new ways to declare variables in JavaScript: `let` and `const`.
 
