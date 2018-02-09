@@ -137,4 +137,4 @@ Is there any reason to use `var` anymore? Not really.
 
 There are some arguments that can be made for using `var` in situations where you want to globally define variables, but this is often considered bad practice and should be avoided. From now on, we suggest ditching `var` in place of using `let` and `const`.
 - - -
-Next: [Next Lesson](./03-LessonTitle.md)
+Next: [6-2 Quiz Using Let and Const](./03-Quiz-Using-Let-And-Const.md)
