@@ -78,22 +78,22 @@ I hope my fellow students will find this information useful to them. Happy codin
   * [Onward](./05-next-up/01-onward.md)
 * [Lesson 06: Syntax](./06-syntax)
   * [Harmony, ES6, ES2015...](./06-syntax/01-es6.md)
-  * Let and Const
-  * Quiz: Using Let and Const
-  * Template Literals
-  * Quiz: Build an HTML Fragment
-  * Destructuring
-  * Quiz: Destructuring Arrays
-  * Object Literal Shorthand
-  * Lesson Checkup
-  * Iteration
-  * Family of For Loops
-  * For...of Loop
-  * Quiz: Writing a For...of Loop
-  * Spread... Operator
-  * ...Rest Parameter
-  * Quiz: Using the Rest Parameter
-  * Lesson Summary
+  * [Let and Const](./06-syntax/02-LetAndConst.md)
+  * [Quiz: Using Let and Const](./06-syntax/03-Quiz-Using-Let-And-Const.md)
+  * [Template Literals](./06-syntax/04-Template-Literals.md)
+  * [Quiz: Build an HTML Fragment](./06-syntax/05-Quiz-Build-HTML-Fragment.md)
+  * [Destructuring](./06-syntax/06-Destructuring.md)
+  * [Quiz: Destructuring Arrays](./06-syntax/07-Quiz-Destructuring-Arrays.md)
+  * [Object Literal Shorthand](./06-syntax/08-Object-Literal-Shorthand.md)
+  * [[Lesson Checkup](./06-syntax/09-Lesson-01-Checkup.md)
+  * [[Iteration](./06-syntax/10-Iteration.md)
+  * [Family of For Loops](./06-syntax/11-Family-Of-For-Loops.md)
+  * [For...of Loop](./06-syntax/12-For-Of-Loop.md)
+  * [Quiz: Writing a For...of Loop](./06-syntax/13-Quiz-Writing-For-Of-Loop.md)
+  * [Spread... Operator](./06-syntax/14-Spread...Operator.md)
+  * [...Rest Parameter](./06-syntax/15-...Rest-Parameter.md)
+  * [Quiz: Using the Rest Parameter](./06-syntax/16-Quiz-Using-Rest-Parameter.md)
+  * [Lesson Summary](./06-syntax/17-Lesson-01-Summary.md)
 * Lesson 07: Functions
   * Updates to Functions
   * Arrow Functions
